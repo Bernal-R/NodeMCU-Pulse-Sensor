@@ -22,7 +22,6 @@ void setup() {
   Serial.println("Estoy comenzando");
   pinMode(blinkPin, OUTPUT);
   pinMode(fadePin, OUTPUT);
-  interruptSetup();
 }
 
 
